@@ -2,7 +2,9 @@
 
 # Table of Content
 
-- **Healthcare**
+- **Real Application**
 
-    - [Heart disease](https://github.com/mareksturek/real-application/blob/main/healthcare_heart_disease.ipynb)
+    - Healthcare
+
+         - [Heart disease](https://github.com/mareksturek/real-application/blob/main/healthcare_heart_disease.ipynb)
 
