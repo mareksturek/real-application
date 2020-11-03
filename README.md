@@ -7,4 +7,7 @@
     - Healthcare
 
          - [Heart disease](https://github.com/mareksturek/real-application/blob/main/healthcare_heart_disease.ipynb)
+         
+         - [Brain tumor](https://github.com/mareksturek/real-application/blob/main/healthcare_brain_tumor.ipynb)
+
 
