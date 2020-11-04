@@ -12,8 +12,17 @@
          
    
     - Finance
-
+    
+         - [Avocado prices](https://github.com/mareksturek/real-application/blob/main/finance_avocado_prices.ipynb)
+         
          - [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/finance_car_purchasing.ipynb)
+         
+ 
+
+        
+         
+         
+    
 
         
          
