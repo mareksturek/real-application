@@ -10,4 +10,12 @@
 
          - [Heart disease](https://github.com/mareksturek/real-application/blob/main/healthcare_heart_disease.ipynb)
          
+   
+    - Finance
+
+         - [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/finance_car_purchasing.ipynb)
+
+        
          
+         
+    
