@@ -26,6 +26,10 @@
     
          - [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb)
 
+         - [Yelp Reviews](https://github.com/mareksturek/real-application/blob/main/communication_yelp_reviews.ipynb)
+         
+         - [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/communication_youtube_comments.ipynb)
+
          
     - Community 
     
