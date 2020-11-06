@@ -10,23 +10,27 @@
 
          - [Heart disease](https://github.com/mareksturek/real-application/blob/main/healthcare_heart_disease.ipynb)
          
-   
+ 
+ 
     - Finance
     
          - [Avocado prices](https://github.com/mareksturek/real-application/blob/main/finance_avocado_prices.ipynb)
          
          - [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/finance_car_purchasing.ipynb)
          
- 
+
+
     - Transportation
     
          - [Traffic Signs](https://github.com/mareksturek/real-application/blob/main/transportation_traffic_signs.ipynb)
          
-    
+ 
+ 
     - Communication
     
          - [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb)
-                
+
+
          
     - Community 
     
