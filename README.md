@@ -10,7 +10,7 @@
 
          - [Heart disease](https://github.com/mareksturek/real-application/blob/main/healthcare_heart_disease.ipynb)
          
- 
+ <br/>
  
     - Finance
     
