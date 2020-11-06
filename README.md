@@ -28,7 +28,17 @@
          - [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb)
                 
          
+    - Community 
+    
+         - [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/community_crime_prediction.ipynb)
+                
+         
         
+         
+         
+    
+
+                
          
          
     
