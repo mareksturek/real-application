@@ -21,6 +21,13 @@
     - Transportation
     
          - [Traffic Signs](https://github.com/mareksturek/real-application/blob/main/transportation_traffic_signs.ipynb)
+         
+    
+    - Communication
+    
+         - [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb)
+                
+         
         
          
          
