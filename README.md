@@ -4,40 +4,67 @@
 
 - **Real Application**
 
-    - Healthcare
 
-         - [Brain tumor](https://github.com/mareksturek/real-application/blob/main/healthcare_brain_tumor.ipynb)
+| No | Category   | Notebook | 
+|----|------------|----------|
+|1| Communication|[Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb)| 
+| 2  | Oliver     | 25       | 
+| 3  | Shayna     | 18       | 
+| 4  | Fechin     | 18       | 
+  
+  
+  
+  
+  - Healthcare
 
-         - [Heart disease](https://github.com/mareksturek/real-application/blob/main/healthcare_heart_disease.ipynb)
+        - [Brain tumor](https://github.com/mareksturek/real-application/blob/main/healthcare_brain_tumor.ipynb)
+
+        - [Heart disease](https://github.com/mareksturek/real-application/blob/main/healthcare_heart_disease.ipynb)
           
     - Finance
     
-         - [Avocado prices](https://github.com/mareksturek/real-application/blob/main/finance_avocado_prices.ipynb)
+        - [Avocado prices](https://github.com/mareksturek/real-application/blob/main/finance_avocado_prices.ipynb)
          
-         - [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/finance_car_purchasing.ipynb)
+        - [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/finance_car_purchasing.ipynb)
         
 
     - Transportation
     
-         - [Traffic Signs](https://github.com/mareksturek/real-application/blob/main/transportation_traffic_signs.ipynb)
+        - [Traffic Signs](https://github.com/mareksturek/real-application/blob/main/transportation_traffic_signs.ipynb)
          
  
     - Communication
     
-         - [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb)
+        - [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb)
 
-         - [Yelp Reviews](https://github.com/mareksturek/real-application/blob/main/communication_yelp_reviews.ipynb)
-         
-         - [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/communication_youtube_comments.ipynb)
+        - [Yelp Reviews](https://github.com/mareksturek/real-application/blob/main/communication_yelp_reviews.ipynb)
+        
+        - [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/communication_youtube_comments.ipynb)
 
          
     - Community 
     
-         - [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/community_crime_prediction.ipynb)
+        - [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/community_crime_prediction.ipynb)
+                
+                
+    - Creative 
+    
+        - [Movie Recommnder](https://github.com/mareksturek/real-application/blob/main/creative_movie_recommnder.ipynb)
+                
+         
+    - Marketing
+    
+        - [Sales Prediction](https://github.com/mareksturek/real-application/blob/main/marketing_sales_prediction.ipynb)
                 
          
         
          
+                
+         
+    
+  
+         
+                
          
     
 
