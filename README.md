@@ -4,18 +4,8 @@
 
 - **Real Application**
 
-
-| No | Category   | Notebook | 
-|----|------------|----------|
-|1| Communication|[Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb)| 
-| 2  | Oliver     | 25       | 
-| 3  | Shayna     | 18       | 
-| 4  | Fechin     | 18       | 
   
-  
-  
-  
-  - Healthcare
+    - Healthcare
 
         - [Brain tumor](https://github.com/mareksturek/real-application/blob/main/healthcare_brain_tumor.ipynb)
 
