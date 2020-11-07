@@ -4,10 +4,10 @@
 
 - **Real Application**
 
-
+  
 | Category | Notebook |
 |:-:|-|
-| Communication   |
+| Communication |  |
 | 1 | [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb) |
 | 2 | [Yelp Reviews](https://github.com/mareksturek/real-application/blob/main/communication_yelp_reviews.ipynb) |
 | 3 | [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/communication_youtube_comments.ipynb) |
@@ -24,12 +24,7 @@
 | Marketing |  |
 | 1 | [Sales Prediction](https://github.com/mareksturek/real-application/blob/main/marketing_sales_prediction.ipynb) |
 | Transportation |  |
-| 1 | [Traffic Signs](https://github.com/mareksturek/real-application/blob/main/transportation_traffic_signs.ipynb) |
-
-
-
-
-
+| 1 | [Traffic Signs](https://github.com/mareksturek/real-application/blob/main/transportation_traffic_signs.ipynb) | |
 
   
     - Healthcare
