@@ -7,11 +7,11 @@
   
    | Category | Notebook |
    |:-:|-|
-  + Communication |  |
+ **|Communication |  |
    | 1 | [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb) |
    | 2 | [Yelp Reviews](https://github.com/mareksturek/real-application/blob/main/communication_yelp_reviews.ipynb) |
    | 3 | [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/communication_youtube_comments.ipynb) |
-  -| Community |  |
+ **| Community |  |
    | 1 | [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/community_crime_prediction.ipynb) |
   -| Creative |  |
    | 1 | [Movie Recommnder](https://github.com/mareksturek/real-application/blob/main/creative_movie_recommnder.ipynb) |
