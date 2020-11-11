@@ -18,6 +18,7 @@
   | Finance |  |
   | 1 | [Avocado Prices](https://github.com/mareksturek/real-application/blob/main/finance_avocado_prices.ipynb) |
   | 2 | [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/finance_car_purchasing.ipynb) |
+  | 3 | [Sales Prediction](https://github.com/mareksturek/real-application/blob/main/finance_sales_prediction.ipynb) |
   | Healthcare |  |
   | 1 | [Brain Tumor](https://github.com/mareksturek/real-application/blob/main/healthcare_brain_tumor.ipynb) |
   | 2 | [Heart Disease](https://github.com/mareksturek/real-application/blob/main/healthcare_heart_disease.ipynb) |
