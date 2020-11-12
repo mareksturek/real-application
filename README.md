@@ -14,7 +14,7 @@
   | Community |  |
   | 1 | [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/community_crime_prediction.ipynb) |
   | Creative |  |
-  | 1 | [Movie Recommnder](https://github.com/mareksturek/real-application/blob/main/creative_movie_recommnder.ipynb) |
+  | 1 | [Movie Recommender](https://github.com/mareksturek/real-application/blob/main/creative_movie_recommnder.ipynb) |
   | Finance |  |
   | 1 | [Avocado Prices](https://github.com/mareksturek/real-application/blob/main/finance_avocado_prices.ipynb) |
   | 2 | [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/finance_car_purchasing.ipynb) |
