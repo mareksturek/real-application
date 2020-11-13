@@ -11,6 +11,7 @@
   | 1 | [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/communication_spam_classifier.ipynb) |
   | 2 | [Yelp Reviews](https://github.com/mareksturek/real-application/blob/main/communication_yelp_reviews.ipynb) |
   | 3 | [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/communication_youtube_comments.ipynb) |
+  | 4 | [Reviews Satisfaction](https://github.com/mareksturek/real-application/blob/main/communication_reviews_satisfaction.ipynb) |
   | Community |  |
   | 1 | [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/community_crime_prediction.ipynb) |
   | Creative |  |
