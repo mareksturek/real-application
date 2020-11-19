@@ -15,7 +15,7 @@
   | Community |  |
   | 1 | [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/community_crime_prediction.ipynb) |
   | Creative |  |
-  | 1 | [Movie Recommender](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_movie_recommnder.ipynb) |
+  | 1 | [Movie Recommender](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_movie_recommender.ipynb) |
   | Finance |  |
   | 1 | [Avocado Prices](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_avocado_prices.ipynb) |
   | 2 | [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_car_purchasing.ipynb) |
@@ -25,7 +25,7 @@
   | 2 | [Heart Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_heart_disease.ipynb) |
   | 3 | [Chest Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_chest_disease.ipynb) |
   | Human Resources |  |
-  | 1 | [Employees Retention](https://github.com/mareksturek/real-application/blob/main/notebooks/hr_employees_tumor.ipynb) |
+  | 1 | [Employees Retention](https://github.com/mareksturek/real-application/blob/main/notebooks/hr_employees_retention.ipynb) |
   | Marketing |  |
   | 1 | [Sales Platforms](https://github.com/mareksturek/real-application/blob/main/notebooks/marketing_sales_platforms.ipynb) |
   | 2 | [Market Segmentation](https://github.com/mareksturek/real-application/blob/main/notebooks/marketing_market_segmentation.ipynb) |
