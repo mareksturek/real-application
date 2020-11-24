@@ -20,7 +20,7 @@
   | 1 | [Avocado Prices](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_avocado_prices.ipynb) |
   | 2 | [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_car_purchasing.ipynb) |
   | 3 | [Sales Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_sales_prediction.ipynb) |
-  | 4 | [Daily Revenue Ice Cream](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_daily_revenu_ice_cream.ipynb) |
+  | 4 | [Daily Revenue Ice Cream](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_daily_revenue_ice_cream.ipynb) |
   | Healthcare |  |
   | 1 | [Brain Tumor](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_brain_tumor.ipynb) |
   | 2 | [Heart Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_heart_disease.ipynb) |
