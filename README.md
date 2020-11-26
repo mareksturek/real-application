@@ -13,7 +13,8 @@
   | 3 | [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_youtube_comments.ipynb) |
   | 4 | [Reviews Satisfaction](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_reviews_satisfaction.ipynb) |
   | Community |  |
-  | 1 | [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/community_crime_prediction.ipynb) |
+  | 1 | [Bike Rental Usage](https://github.com/mareksturek/real-application/blob/main/notebooks/community_bike_rental_usage.ipynb) |
+  | 2 | [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/community_crime_prediction.ipynb) |
   | Creative |  |
   | 1 | [Movie Recommender](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_movie_recommender.ipynb) |
   | Finance |  |
