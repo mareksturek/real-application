@@ -26,7 +26,7 @@
   | 1 | [Brain Tumor](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_brain_tumor.ipynb) |
   | 2 | [Heart Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_heart_disease.ipynb) |
   | 3 | [Chest Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_chest_disease.ipynb) |
-  | 4 | [Diabetes Classification](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_diabetes_classification.ipynb) |
+  | 4 | [Diabetes Classify](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_diabetes_classification.ipynb) |
   | Human Resources |  |
   | 1 | [Employees Retention](https://github.com/mareksturek/real-application/blob/main/notebooks/hr_employees_retention.ipynb) |
   | Marketing |  |
