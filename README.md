@@ -15,7 +15,7 @@
   | Community |  |
   | 1 | [Bike Rental Usage](https://github.com/mareksturek/real-application/blob/main/notebooks/community_bike_rental_usage.ipynb) |
   | 2 | [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/community_crime_prediction.ipynb) |
-  | 3 | [Fasion Class](https://github.com/mareksturek/real-application/blob/main/notebooks/community_fasion_class.ipynb) | 
+  | 3 | [Fasion Classify](https://github.com/mareksturek/real-application/blob/main/notebooks/community_fashion_class.ipynb) | 
   | Creative |  |
   | 1 | [Movie Recommender](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_movie_recommender.ipynb) |
   | Finance |  |
