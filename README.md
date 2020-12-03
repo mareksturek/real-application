@@ -2,45 +2,52 @@
 
 # Table of Content
 
-- **Real Application**
+- **Communication**
 
+    - [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_spam_classifier.ipynb) 
+    - [Yelp Reviews](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_yelp_reviews.ipynb) 
+    - [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_youtube_comments.ipynb) 
+    - [Reviews Satisfaction](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_reviews_satisfaction.ipynb) 
+    
+- **Community**  
+
+    - [Bike Rental Usage](https://github.com/mareksturek/real-application/blob/main/notebooks/community_bike_rental_usage.ipynb) 
+    - [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/community_crime_prediction.ipynb) 
+    - [Fasion Classify](https://github.com/mareksturek/real-application/blob/main/notebooks/community_fashion_class.ipynb) 
   
-  | Category | Notebook |
-  |:-:|-|
-  |Communication |  |
-  | 1 | [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_spam_classifier.ipynb) |
-  | 2 | [Yelp Reviews](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_yelp_reviews.ipynb) |
-  | 3 | [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_youtube_comments.ipynb) |
-  | 4 | [Reviews Satisfaction](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_reviews_satisfaction.ipynb) |
-  | Community |  |
-  | 1 | [Bike Rental Usage](https://github.com/mareksturek/real-application/blob/main/notebooks/community_bike_rental_usage.ipynb) |
-  | 2 | [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/community_crime_prediction.ipynb) |
-  | 3 | [Fasion Classify](https://github.com/mareksturek/real-application/blob/main/notebooks/community_fashion_class.ipynb) | 
-  | Creative |  |
-  | 1 | [Movie Recommender](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_movie_recommender.ipynb) |
-  | Finance |  |
-  | 1 | [Avocado Prices](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_avocado_prices.ipynb) |
-  | 2 | [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_car_purchasing.ipynb) |
-  | 3 | [Sales Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_sales_prediction.ipynb) |
-  | 4 | [Ice Cream Revenue](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_daily_revenue_ice_cream.ipynb) |
-  | Healthcare |  |
-  | 1 | [Brain Tumor](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_brain_tumor.ipynb) |
-  | 2 | [Heart Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_heart_disease.ipynb) |
-  | 3 | [Chest Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_chest_disease.ipynb) |
-  | 4 | [Diabetes Classify](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_diabetes_classification.ipynb) |
-  | Human Resources |  |
-  | 1 | [Employees Retention](https://github.com/mareksturek/real-application/blob/main/notebooks/hr_employees_retention.ipynb) |
-  | Marketing |  |
-  | 1 | [Sales Platforms](https://github.com/mareksturek/real-application/blob/main/notebooks/marketing_sales_platforms.ipynb) |
-  | 2 | [Market Segmentation](https://github.com/mareksturek/real-application/blob/main/notebooks/marketing_market_segmentation.ipynb) |
-  | Transportation |  |
-  | 1 | [Traffic Signs](https://github.com/mareksturek/real-application/blob/main/notebooks/transportation_traffic_signs.ipynb) | |
+- **Creative**  
+
+    - [Movie Recommender](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_movie_recommender.ipynb) 
+    
+- **Finance**    
+ 
+    - [Avocado Prices](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_avocado_prices.ipynb) 
+    - [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_car_purchasing.ipynb) 
+    - [Sales Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_sales_prediction.ipynb) 
+    - [Ice Cream Revenue](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_daily_revenue_ice_cream.ipynb) 
+
+- **Healthcare**    
+
+    - [Brain Tumor](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_brain_tumor.ipynb) 
+    - [Heart Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_heart_disease.ipynb) 
+    - [Chest Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_chest_disease.ipynb) 
+    - [Diabetes Classify](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_diabetes_classification.ipynb) 
+    
+- **Human Resources** 
+    
+    - [Employees Retention](https://github.com/mareksturek/real-application/blob/main/notebooks/hr_employees_retention.ipynb) 
+
+- **Marketing** 
+
+    - [Sales Platforms](https://github.com/mareksturek/real-application/blob/main/notebooks/marketing_sales_platforms.ipynb) 
+    - [Market Segmentation](https://github.com/mareksturek/real-application/blob/main/notebooks/marketing_market_segmentation.ipynb) 
+
+- **Transportation** 
+
+    - [Traffic Signs](https://github.com/mareksturek/real-application/blob/main/notebooks/transportation_traffic_signs.ipynb) 
 
                 
-         
-    
-  
-         
+        
                 
          
     
