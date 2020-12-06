@@ -14,17 +14,22 @@
     - [Bike Rental Usage](https://github.com/mareksturek/real-application/blob/main/notebooks/community_bike_rental_usage.ipynb) 
     - [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/community_crime_prediction.ipynb) 
     - [Fasion Classify](https://github.com/mareksturek/real-application/blob/main/notebooks/community_fashion_class.ipynb) 
+    - [House Prices](https://github.com/mareksturek/real-application/blob/main/notebooks/community_house_prices.ipynb) 
   
 - **Creative**  
 
     - [Movie Recommender](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_movie_recommender.ipynb) 
+    - [Deep Dream](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_deep_dream.ipynb)
+    - [Detect Smiling Faces](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_detect_smiling_faces.ipynb)
+    - [GANs Images](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_gans_images.ipynb)
     
 - **Finance**    
  
     - [Avocado Prices](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_avocado_prices.ipynb) 
     - [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_car_purchasing.ipynb) 
     - [Sales Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_sales_prediction.ipynb) 
-    - [Ice Cream Revenue](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_daily_revenue_ice_cream.ipynb) 
+    - [Ice Cream Revenue](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_daily_revenue_ice_cream.ipynb)
+    - [Stocks Eva & Pred](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_stocks_eva_pred.ipynb) 
 
 - **Healthcare**    
 
