@@ -2,6 +2,12 @@
 
 # Table of Content
 
+- **Communication**
+
+    - [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_spam_classifier.ipynb) 
+    - [Yelp Reviews](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_yelp_reviews.ipynb) 
+    - [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_youtube_comments.ipynb) 
+    - [Reviews Satisfaction](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_reviews_satisfaction.ipynb) 
 
 - **Community**  
 
@@ -36,13 +42,6 @@
 - **Human Resources** 
     
     - [Employees Retention](https://github.com/mareksturek/real-application/blob/main/notebooks/hr_employees_retention.ipynb) 
-    
-- **Media**
-
-    - [Spam Classifier](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_spam_classifier.ipynb) 
-    - [Yelp Reviews](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_yelp_reviews.ipynb) 
-    - [YouTube Comments](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_youtube_comments.ipynb) 
-    - [Reviews Satisfaction](https://github.com/mareksturek/real-application/blob/main/notebooks/communication_reviews_satisfaction.ipynb) 
 
 - **Marketing** 
 
