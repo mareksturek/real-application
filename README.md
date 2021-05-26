@@ -37,7 +37,7 @@
     - [Heart Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_heart_disease.ipynb) 
     - [Chest Disease](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_chest_disease.ipynb) 
     - [Diabetes Classification](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_diabetes_classification.ipynb)
-    - [Pneumonia Classify](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_pneumonia_classification.ipynb) 
+    - [Pneumonia Classification](https://github.com/mareksturek/real-application/blob/main/notebooks/healthcare_pneumonia_classification.ipynb) 
     
 - **Human Resources** 
     
