@@ -29,7 +29,7 @@
     - [Car Purchasing](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_car_purchasing.ipynb) 
     - [Sales Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_sales_prediction.ipynb) 
     - [Ice Cream Revenue](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_daily_revenue_ice_cream.ipynb)
-    - [Stocks Eva & Pred](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_stocks_eva_pred.ipynb) 
+    - [Stocks Predictions](https://github.com/mareksturek/real-application/blob/main/notebooks/finance_stocks_eva_pred.ipynb) 
 
 - **Healthcare**    
 
