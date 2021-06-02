@@ -19,7 +19,7 @@
 - **Creative**  
 
     - [Movie Recommender](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_movie_recommender.ipynb) 
-    - [Deep Dream](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_deep_dream.ipynb)
+    - [Deep Dream Pics](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_deep_dream.ipynb)
     - [Detect Smiling Faces](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_detect_smiling_faces.ipynb)
     - [GANs Images](https://github.com/mareksturek/real-application/blob/main/notebooks/creative_gans_images.ipynb)
     
