@@ -45,7 +45,7 @@
 
 - **Marketing** 
 
-    - [Sales Platforms](https://github.com/mareksturek/real-application/blob/main/notebooks/marketing_sales_platforms.ipynb) 
+    - [Sales Platform](https://github.com/mareksturek/real-application/blob/main/notebooks/marketing_sales_platforms.ipynb) 
     - [Market Segmentation](https://github.com/mareksturek/real-application/blob/main/notebooks/marketing_market_segmentation.ipynb) 
 
 - **Transportation** 
