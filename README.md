@@ -14,7 +14,7 @@
     - [Bikes Rental Usage](https://github.com/mareksturek/real-application/blob/main/notebooks/community_bike_rental_usage.ipynb) 
     - [Crime Prediction](https://github.com/mareksturek/real-application/blob/main/notebooks/community_crime_prediction.ipynb) 
     - [Fasion Classification](https://github.com/mareksturek/real-application/blob/main/notebooks/community_fashion_classification.ipynb) 
-    - [Housing Prices](https://github.com/mareksturek/real-application/blob/main/notebooks/community_house_prices.ipynb) 
+    - [House Pricing](https://github.com/mareksturek/real-application/blob/main/notebooks/community_house_prices.ipynb) 
   
 - **Creative**  
 
